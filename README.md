@@ -16,10 +16,10 @@ The model extends the baseline **Bi-Component Repair Model (BCRM)** by introduci
 
 The ultraslow pool corresponds to damage that persists for tens of hours:
 
-Clustered / dirty-end DSBs requiring long enzymatic processing (PNKP, Artemis).
+Clustered/dirty-end DSBs requiring long enzymatic processing (PNKP, Artemis).
 
 Heterochromatin-associated breaks (H3K9me3 / HP1α) repairing via delayed HR.
 
 Stable ATM microdomains around unrepaired DSBs or telomeres.
 
-Thus Model C⁺ provides a mechanistic—not phenomenological—explanation of long-lived DNA damage signaling.
+The Model provides a mechanistic—not phenomenological—explanation of long-lived DNA damage signaling.
